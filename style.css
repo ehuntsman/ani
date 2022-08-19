@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    width:100%;
+    height:100%;
+    overflow:hidden;
+    background:#000;
+    text-align: center;
+  }
+  
+  #main {
+    fill:none;
+    stroke:#ec3794;
+    stroke-miterlimit:10;
+   }
